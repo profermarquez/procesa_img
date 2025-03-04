@@ -1,5 +1,5 @@
 # contenxto
-TRes ejemplos de la utilización y procesamiento de imagenes
+Tres ejemplos de la utilización y procesamiento de imagenes
 
 # activar e instalar un entorno virtual
 virtualenv env
