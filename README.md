@@ -1,10 +1,10 @@
-# contenxto
+# contexto
 Tres ejemplos de la utilización y procesamiento de imagenes
 
 # activar e instalar un entorno virtual
 virtualenv env
 
-# reaquerimientos
+# requerimientos
 
 pip install torch torchvision torchaudio
 
